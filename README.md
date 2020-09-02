@@ -1,2 +1,2 @@
 # Notas_y_Neuronas
-CONFERENCIA DE PYTHON EN BOLIVIA
+Conferencia de python -Bolivia
