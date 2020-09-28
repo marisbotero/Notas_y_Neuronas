@@ -1,2 +1,2 @@
-# Notas_y_Neuronas
+# Notas 🎵💜🧠 Neuronas
 Conferencia de python -Bolivia
